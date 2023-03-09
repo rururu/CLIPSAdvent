@@ -1,0 +1,8 @@
+(clear)
+(load ch6/comm.clp)
+(load ch6/definitions.clp)
+(load ch6/user_commands.clp)
+(load ch6/kernel.clp)
+(load ch6/data.clp)
+(load ch6/game.clp)
+(reset)
