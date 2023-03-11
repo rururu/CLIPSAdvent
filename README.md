@@ -10,7 +10,7 @@ The program written on Python programming language and use following libraries.
 - streamlit [https://streamlit.io/](https://streamlit.io/) - Python web interface library
 - clipspy [https://github.com/noxdafox/clipspy](https://github.com/noxdafox/clipspy) - CLIPS Python bindings
 - pillow [https://github.com/python-pillow/Pillow](https://github.com/python-pillow/Pillow) - Python Imaging Library
-- streamlit-option-menu []() - Streamlit component
+- streamlit-option-menu [https://github.com/victoryhb/streamlit-option-menu](https://github.com/victoryhb/streamlit-option-menu) - Streamlit component
 ## Start
 Change directory to this application folder and in a terminal execute a coomand:
 ```bush
