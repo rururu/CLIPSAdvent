@@ -3,6 +3,7 @@ User interface  for Adventures in RULE-BASED PROGRAMMING of Gary Riley on a base
 
 [![Watch the video](img/1.png)](https://www.youtube.com/watch?v=OICbo3Zu_jY)
 Click the screenshot to see a video!
+
 This program adds web interface to a CLIPS application described in [Adventures in RULE-BASED PROGRAMMING, of Gary Riley](https://clipsrules.net/airbp.html). With it, you can decorate and enliven slightly text adventures by images, audio and video materials.
 The program written on Python programming language and use following libraries.
 ## Libraries
@@ -13,8 +14,8 @@ The program written on Python programming language and use following libraries.
 ```bush
 streamlit run main.py
 ```
-##For newbies
+## For newbies
 The easiest way to install Python, libraries and start developing is to install Thonny.
-##Feedback
+## Feedback
 For comments and suggestions please contact [Ru](zspovenetsky@gmail.com)
 
