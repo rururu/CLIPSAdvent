@@ -22,6 +22,12 @@ python -m streamlit run main.py
 ```
 ## For newbies
 The easiest way to install Python, libraries and start developing is to install Thonny [https://thonny.org/](https://thonny.org/).
+Libraries installation in Thonny: Menu Tools > Manage Packages > Search on PyPI > <library name>
+
+ Start in Thonny Shell:
+```bush
+!streamlit run main.py
+```  
 ## Feedback
 For comments and suggestions please contact [Ru](zspovenetsky@gmail.com)
 
