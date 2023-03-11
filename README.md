@@ -10,7 +10,7 @@ The program written on Python programming language and use following libraries.
 - streamlit [https://streamlit.io/](https://streamlit.io/) - Python web interface library
 - clipspy [https://github.com/noxdafox/clipspy](https://github.com/noxdafox/clipspy) - CLIPS Python bindings
 - pillow [https://github.com/python-pillow/Pillow](https://github.com/python-pillow/Pillow) - Python Imaging Library
-- streamlit-option-menu []() - Streamlit component
+- streamlit-option-menu [https://github.com/victoryhb/streamlit-option-menu](https://github.com/victoryhb/streamlit-option-menu) - Streamlit component
 ## Start
 Change directory to this application folder and in a terminal execute a coomand:
 ```bush
@@ -23,12 +23,12 @@ python -m streamlit run main.py
 ## For newbies
 The easiest way to install Python, libraries and start developing is to install Thonny [https://thonny.org/](https://thonny.org/).
 
-Libraries installation in Thonny: Menu Tools > Manage Packages > Search on PyPI > <library name>
+Libraries installation in Thonny: Menu Tools > Manage Packages > Search on PyPI > library name
 
  Start in Thonny Shell:
 ```bush
 !streamlit run main.py
 ```  
 ## Feedback
-For comments and suggestions please contact [Ru](zspovenetsky@gmail.com)
+For comments and suggestions please contact [Ru](https://github.com/rururu)
 
