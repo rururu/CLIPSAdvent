@@ -30,5 +30,5 @@ Libraries installation in Thonny: Menu Tools > Manage Packages > Search on PyPI 
 !streamlit run main.py
 ```  
 ## Feedback
-For comments and suggestions please contact [Ru](zspovenetsky@gmail.com)
+For comments and suggestions please contact [Ru](https://github.com/rururu)
 
