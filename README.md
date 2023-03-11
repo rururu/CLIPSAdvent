@@ -11,11 +11,12 @@ The program written on Python programming language and use following libraries.
 - clipspy [https://github.com/noxdafox/clipspy](https://github.com/noxdafox/clipspy) - CLIPS Python bindings
 - pillow [https://github.com/python-pillow/Pillow](https://github.com/python-pillow/Pillow) - Python Imaging Library
 ## Start
+Change directory to this application folder and in a terminal execute a coomand:
 ```bush
 streamlit run main.py
 ```
 ## For newbies
-The easiest way to install Python, libraries and start developing is to install Thonny.
+The easiest way to install Python, libraries and start developing is to install Thonny [https://thonny.org/](https://thonny.org/).
 ## Feedback
 For comments and suggestions please contact [Ru](zspovenetsky@gmail.com)
 
